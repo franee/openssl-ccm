@@ -15,7 +15,7 @@ GEM
       unf (>= 0.0.5, < 1.0.0)
     http-cookie (1.0.2)
       domain_name (~> 0.5)
-    json (1.8.3)
+    json (1.8.6)
     mime-types (2.6.2)
     netrc (0.10.3)
     parser (2.2.2.6)
@@ -24,7 +24,7 @@ GEM
     powerpack (0.1.1)
     rainbow (2.0.0)
     rake (10.4.2)
-    rdoc (4.2.0)
+    rdoc (6.1.1)
     rest-client (1.8.0)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 3.0)
@@ -64,4 +64,4 @@ DEPENDENCIES
   yard (>= 0.8.7.6)
 
 BUNDLED WITH
-   1.10.6
+   1.17.2
